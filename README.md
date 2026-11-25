@@ -60,3 +60,7 @@ O deploy é feito na Vercel a partir da branch `main`. O arquivo `vercel.json` r
 ## Licença
 
 MIT. Veja [LICENSE](LICENSE).
+
+## Autoria
+
+Desenvolvido por Danielle Couto Calil.
